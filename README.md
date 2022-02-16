@@ -1,1 +1,1 @@
-# spring-security-facebook-example
+# spring-security-facebook-exampl
